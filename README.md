@@ -1,5 +1,11 @@
 <h1> Projeto: <b>sidebar-menu</b> </h1>
 
+<h2>Protótipo:</h2>
+
+<li>Para acessar o protótipo clique nesse <a href="https://sidebar-menu-km.vercel.app" target="blank"><b>LINK</b></a>.</li>
+
+<br />
+
 <h2> Objetivo </h2>
 <h4>O objetivo era criar um componente com a função de um menu lateral e de topo, já customizado e sendo responsivo, pronto para ser adicionado em qualquer projeto.</h4>
 
